@@ -1,6 +1,6 @@
 # Indeed Remote Tracker
 
-The Indeed Remote Tracker developed by Hiring Lab monitors the share of job postings containing associated specifically with remote/hybrid work terms over time. The data are seven-day trailing averages. For more information see [here](https://www.hiringlab.org/wp-content/uploads/2023/06/Hybrid-Remote-Methodology.pdf).
+The Indeed Remote Tracker developed by Hiring Lab monitors the share of job postings containing terms associated specifically with remote/hybrid work over time. The data are seven-day trailing averages. For more information see [here](https://www.hiringlab.org/wp-content/uploads/2023/06/Hybrid-Remote-Methodology.pdf).
 
 We currently cover the following countries: Austria, Australia, Belgium, Brazil, Canada, Switzerland, Germany, Spain, France, United Kingdom, Ireland, Italy, India, Italy, Japan, Luxembourg, Mexico, Netherlands, New Zealand, Poland, Philippines, Singapore, Sweden, United States.
 
