@@ -1,6 +1,6 @@
 # Indeed Remote Tracker
 
-This repository contains the data behind the *Indeed Hiring Lab's* Remote Tracker data product. The data is updated monthly, with the exact timing depending upon Hiring Lab’s capacity and priorities.
+This repository contains the data behind the *Indeed Hiring Lab's* Remote Tracker data product. The frequency of the data is daily and it is refreshed each month.
 
 ## Methodology
 
