@@ -25,7 +25,7 @@ Filename:
 |------------|-------------------------------------------------------------------------------------|
 | date       | Date of observation                                                                 |
 | jobcountry | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
-| share      | % share of remote/hybrid job postings/searches                                      |
+| remote_share_xxx      | % share of remote/hybrid job postings/searches                                      |
 
 ### Sector-level
 
@@ -36,7 +36,7 @@ Filename: `remote-postings-sector.csv`
 | date       | Date of observation                                                                 |
 | jobcountry | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
 | sector     | Occupational sector label                                                           |
-| share      | % share of remote/hybrid job postings/searches                                      |
+| remote_share_xxx      | % share of remote/hybrid job postings/searches                                      |
 
 ## License
 
