@@ -6,7 +6,11 @@ This repository contains the data behind the *Indeed Hiring Lab's* Remote Tracke
 
 The data in this repository are the share of remote/hybrid job postings, as a percentage of total (remote AND non-remote) job postings, using a seven-day trailing average. We currently provide data for Australia, Canada, Germany, France, United Kingdom, Ireland and United States.
 
+### Postings
+
 We start by searching if the job location is remote before doing a keyword search on the job posting text to identify remote/hybrid jobs. We then calculate the aggregate share of job postings in a specific location that included keywords associated specifically with remote, hybrid and flexible work arrangements (e.g. "remote work", "flexible work" and "hybrid role"). More information about the data and methodology is available in [an accompanying note](https://www.hiringlab.org/wp-content/uploads/2023/06/Hybrid-Remote-Methodology.pdf).
+
+### Searches
 
 <!-- INSERT SEARCHES METHODOLOGY
  -->
