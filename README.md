@@ -4,7 +4,7 @@ This repository contains the data behind the *Indeed Hiring Lab's* Remote Tracke
 
 ## Methodology
 
-The data in this repository are the share of remote/hybrid job postings and searches on Indeed, as a percentage of total (remote AND non-remote) job postings, using a seven-day trailing average. We currently provide data for Australia, Canada, Germany, France, United Kingdom, Ireland and United States.
+The data in this repository are the share of remote/hybrid job postings and searches on Indeed, as a percentage of total (remote AND non-remote) job postings and searches, using a seven-day trailing average. We currently provide data for Australia, Canada, Germany, France, United Kingdom, Ireland and United States.
 
 ### Postings
 
