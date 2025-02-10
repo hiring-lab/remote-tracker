@@ -20,8 +20,9 @@ The same remote/hybrid keywords are used to identify remote/hybrid job searches 
 
 Filename:
 
-- `remote-postings.csv`
-- `remote-searches.csv`
+- `remote_postings.csv`
+- `remote_postings_sector.csv`
+- `remote_searches.csv`
 
 | variable   | definition                                                                          |
 |------------|-------------------------------------------------------------------------------------|
